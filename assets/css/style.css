@@ -1,0 +1,68 @@
+*{
+    font-family: 'Exo', sans-serif;
+    text-decoration: none;
+
+}
+.userLogin{
+    height: 35px;
+}
+
+.btn-outline-secondary:hover, .list-group-item:hover{
+    background-color: rgb(180, 21, 21);
+    border:  rgb(180, 21, 21);
+    color: rgb(255, 255, 255);
+}
+.nav-link{
+    color:rgb(180, 21, 21);
+}
+.crveni-text, .card a{
+    color:rgb(180, 21, 21);
+    text-decoration: none;
+}
+a.btn, .crveni-text:hover, .nav-link:hover, #futer a:hover, .card a:hover{
+    color:rgb(128, 5, 5);
+    text-decoration: none;
+}
+
+.navbar {
+    margin-bottom: 0px;
+    border-radius: 0px;
+    background-color: black !important;
+}
+  #futer{
+      background-image: url("../img/bgfooter.jpg");
+  }
+
+  .social a {
+    font-size: 4rem;
+    padding: 3rem;
+    color: rgb(180, 21, 21);
+}
+.social a:hover {
+    color: rgb(128, 5, 5);
+}
+
+.card-inner{
+    margin-left: 4rem;
+}
+
+.card-columns {
+    @include media-breakpoint-only(lg) {
+      column-count: 4;
+    }
+    @include media-breakpoint-only(xl) {
+      column-count: 5;
+    }
+  }
+
+footer, #futer a, #futer hr{
+    color: white;
+}
+
+/* Izmena.php */
+
+.profil{
+    max-width: 300px !important;
+    max-height: 300px !important;
+    margin: 0px auto;
+}

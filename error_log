@@ -1,0 +1,778 @@
+[14-Jun-2019 12:57:54 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.ml/comimakeupBlog.rs//config/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[14-Jun-2019 12:57:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[14-Jun-2019 12:57:54 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.ml/comimakeupBlog.rs//config/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[14-Jun-2019 12:57:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[14-Jun-2019 12:57:54 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.ml/comimakeupBlog.rs//config/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[14-Jun-2019 12:57:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[14-Jun-2019 12:57:54 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.ml/comimakeupBlog.rs//config/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[14-Jun-2019 12:57:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[14-Jun-2019 12:57:54 UTC] PHP Warning:  fopen(/home/tsdwzqqh/comimakeupblog.ml/comimakeupBlog.rs//data/log.txt): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/konekcija.php on line 27
+[14-Jun-2019 12:57:54 UTC] PHP Fatal error:  Call to a member function query() on null in /home/tsdwzqqh/comimakeupblog.ml/config/konekcija.php on line 18
+[14-Jun-2019 13:11:54 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.ml/comimakeupBlog.rs//config/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[14-Jun-2019 13:11:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[14-Jun-2019 13:11:54 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.ml/comimakeupBlog.rs//config/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[14-Jun-2019 13:11:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[14-Jun-2019 13:11:54 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.ml/comimakeupBlog.rs//config/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[14-Jun-2019 13:11:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[14-Jun-2019 13:11:54 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.ml/comimakeupBlog.rs//config/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[14-Jun-2019 13:11:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[14-Jun-2019 13:11:54 UTC] PHP Warning:  fopen(/home/tsdwzqqh/comimakeupblog.ml/comimakeupBlog.rs//data/log.txt): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/konekcija.php on line 27
+[14-Jun-2019 13:11:54 UTC] PHP Fatal error:  Call to a member function query() on null in /home/tsdwzqqh/comimakeupblog.ml/config/konekcija.php on line 18
+[14-Jun-2019 13:13:24 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.ml/comimakeupBlog.rs//config/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[14-Jun-2019 13:13:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[14-Jun-2019 13:13:24 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.ml/comimakeupBlog.rs//config/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[14-Jun-2019 13:13:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[14-Jun-2019 13:13:24 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.ml/comimakeupBlog.rs//config/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[14-Jun-2019 13:13:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[14-Jun-2019 13:13:24 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.ml/comimakeupBlog.rs//config/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[14-Jun-2019 13:13:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[14-Jun-2019 13:13:24 UTC] PHP Warning:  fopen(/home/tsdwzqqh/comimakeupblog.ml/comimakeupBlog.rs//data/log.txt): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/konekcija.php on line 27
+[14-Jun-2019 13:13:24 UTC] PHP Fatal error:  Call to a member function query() on null in /home/tsdwzqqh/comimakeupblog.ml/config/konekcija.php on line 18
+[14-Jun-2019 13:14:09 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.ml/comimakeupBlog.rs//config/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[14-Jun-2019 13:14:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[14-Jun-2019 13:14:09 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.ml/comimakeupBlog.rs//config/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[14-Jun-2019 13:14:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[14-Jun-2019 13:14:09 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.ml/comimakeupBlog.rs//config/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[14-Jun-2019 13:14:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[14-Jun-2019 13:14:09 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.ml/comimakeupBlog.rs//config/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[14-Jun-2019 13:14:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[14-Jun-2019 13:14:09 UTC] PHP Warning:  fopen(/home/tsdwzqqh/comimakeupblog.ml/comimakeupBlog.rs//data/log.txt): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/konekcija.php on line 27
+[14-Jun-2019 13:14:09 UTC] PHP Fatal error:  Call to a member function query() on null in /home/tsdwzqqh/comimakeupblog.ml/config/konekcija.php on line 18
+[14-Jun-2019 13:25:29 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.ml/comimakeupBlog.rs//config/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[14-Jun-2019 13:25:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[14-Jun-2019 13:25:29 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.ml/comimakeupBlog.rs//config/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[14-Jun-2019 13:25:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[14-Jun-2019 13:25:29 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.ml/comimakeupBlog.rs//config/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[14-Jun-2019 13:25:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[14-Jun-2019 13:25:29 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.ml/comimakeupBlog.rs//config/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[14-Jun-2019 13:25:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[14-Jun-2019 13:25:29 UTC] PHP Warning:  fopen(/home/tsdwzqqh/comimakeupblog.ml/comimakeupBlog.rs//data/log.txt): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/konekcija.php on line 27
+[14-Jun-2019 13:25:29 UTC] PHP Fatal error:  Call to a member function query() on null in /home/tsdwzqqh/comimakeupblog.ml/config/konekcija.php on line 18
+[14-Jun-2019 13:27:04 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.ml/comimakeupBlog.rs//config/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[14-Jun-2019 13:27:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[14-Jun-2019 13:27:04 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.ml/comimakeupBlog.rs//config/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[14-Jun-2019 13:27:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[14-Jun-2019 13:27:04 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.ml/comimakeupBlog.rs//config/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[14-Jun-2019 13:27:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[14-Jun-2019 13:27:04 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.ml/comimakeupBlog.rs//config/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[14-Jun-2019 13:27:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[14-Jun-2019 13:27:04 UTC] PHP Warning:  fopen(/home/tsdwzqqh/comimakeupblog.ml/comimakeupBlog.rs//data/log.txt): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/konekcija.php on line 27
+[14-Jun-2019 13:27:04 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/tsdwzqqh/comimakeupblog.ml/models/functions.php on line 15
+[14-Jun-2019 13:35:32 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.ml/comimakeupBlog.rs//config/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[14-Jun-2019 13:35:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[14-Jun-2019 13:35:32 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.ml/comimakeupBlog.rs//config/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[14-Jun-2019 13:35:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[14-Jun-2019 13:35:32 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.ml/comimakeupBlog.rs//config/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[14-Jun-2019 13:35:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[14-Jun-2019 13:35:32 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.ml/comimakeupBlog.rs//config/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[14-Jun-2019 13:35:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[14-Jun-2019 13:35:32 UTC] PHP Warning:  fopen(/home/tsdwzqqh/comimakeupblog.ml/comimakeupBlog.rs//data/log.txt): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/konekcija.php on line 27
+[14-Jun-2019 13:35:32 UTC] PHP Fatal error:  Call to a member function query() on null in /home/tsdwzqqh/comimakeupblog.ml/config/konekcija.php on line 18
+[14-Jun-2019 13:35:41 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.ml/comimakeupBlog.rs//config/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[14-Jun-2019 13:35:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[14-Jun-2019 13:35:41 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.ml/comimakeupBlog.rs//config/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[14-Jun-2019 13:35:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[14-Jun-2019 13:35:41 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.ml/comimakeupBlog.rs//config/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[14-Jun-2019 13:35:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[14-Jun-2019 13:35:41 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.ml/comimakeupBlog.rs//config/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[14-Jun-2019 13:35:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[14-Jun-2019 13:35:41 UTC] PHP Warning:  fopen(/home/tsdwzqqh/comimakeupblog.ml/comimakeupBlog.rs//data/log.txt): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/konekcija.php on line 27
+[14-Jun-2019 13:35:41 UTC] PHP Fatal error:  Call to a member function query() on null in /home/tsdwzqqh/comimakeupblog.ml/config/konekcija.php on line 18
+[14-Jun-2019 13:35:53 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.ml/comimakeupBlog.rs//config/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[14-Jun-2019 13:35:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[14-Jun-2019 13:35:53 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.ml/comimakeupBlog.rs//config/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[14-Jun-2019 13:35:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[14-Jun-2019 13:35:53 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.ml/comimakeupBlog.rs//config/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[14-Jun-2019 13:35:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[14-Jun-2019 13:35:53 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.ml/comimakeupBlog.rs//config/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[14-Jun-2019 13:35:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[14-Jun-2019 13:35:53 UTC] PHP Warning:  fopen(/home/tsdwzqqh/comimakeupblog.ml/comimakeupBlog.rs//data/log.txt): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/konekcija.php on line 27
+[14-Jun-2019 13:35:53 UTC] PHP Fatal error:  Call to a member function query() on null in /home/tsdwzqqh/comimakeupblog.ml/config/konekcija.php on line 18
+[14-Jun-2019 13:39:10 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.ml/comimakeupBlog.rs//config/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[14-Jun-2019 13:39:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[14-Jun-2019 13:39:10 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.ml/comimakeupBlog.rs//config/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[14-Jun-2019 13:39:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[14-Jun-2019 13:39:10 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.ml/comimakeupBlog.rs//config/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[14-Jun-2019 13:39:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[14-Jun-2019 13:39:10 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.ml/comimakeupBlog.rs//config/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[14-Jun-2019 13:39:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[14-Jun-2019 13:39:10 UTC] PHP Warning:  fopen(/home/tsdwzqqh/comimakeupblog.ml/comimakeupBlog.rs//data/log.txt): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/konekcija.php on line 27
+[14-Jun-2019 13:39:10 UTC] PHP Fatal error:  Call to a member function query() on null in /home/tsdwzqqh/comimakeupblog.ml/config/konekcija.php on line 18
+[14-Jun-2019 13:42:05 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.ml/comimakeupBlog.ml//config/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[14-Jun-2019 13:42:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[14-Jun-2019 13:42:05 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.ml/comimakeupBlog.ml//config/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[14-Jun-2019 13:42:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[14-Jun-2019 13:42:05 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.ml/comimakeupBlog.ml//config/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[14-Jun-2019 13:42:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[14-Jun-2019 13:42:05 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.ml/comimakeupBlog.ml//config/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[14-Jun-2019 13:42:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[14-Jun-2019 13:42:05 UTC] PHP Warning:  fopen(/home/tsdwzqqh/comimakeupblog.ml/comimakeupBlog.ml//data/log.txt): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/konekcija.php on line 27
+[14-Jun-2019 13:42:05 UTC] PHP Fatal error:  Call to a member function query() on null in /home/tsdwzqqh/comimakeupblog.ml/config/konekcija.php on line 18
+[14-Jun-2019 13:42:59 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.ml/comimakeupBlog.ml/config/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[14-Jun-2019 13:42:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[14-Jun-2019 13:42:59 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.ml/comimakeupBlog.ml/config/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[14-Jun-2019 13:42:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[14-Jun-2019 13:42:59 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.ml/comimakeupBlog.ml/config/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[14-Jun-2019 13:42:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[14-Jun-2019 13:42:59 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.ml/comimakeupBlog.ml/config/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[14-Jun-2019 13:42:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[14-Jun-2019 13:42:59 UTC] PHP Warning:  fopen(/home/tsdwzqqh/comimakeupblog.ml/comimakeupBlog.ml/data/log.txt): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/konekcija.php on line 27
+[14-Jun-2019 13:42:59 UTC] PHP Fatal error:  Call to a member function query() on null in /home/tsdwzqqh/comimakeupblog.ml/config/konekcija.php on line 18
+[14-Jun-2019 13:43:25 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.ml/comimakeupblog.ml/config/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[14-Jun-2019 13:43:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[14-Jun-2019 13:43:25 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.ml/comimakeupblog.ml/config/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[14-Jun-2019 13:43:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[14-Jun-2019 13:43:25 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.ml/comimakeupblog.ml/config/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[14-Jun-2019 13:43:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[14-Jun-2019 13:43:25 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.ml/comimakeupblog.ml/config/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[14-Jun-2019 13:43:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[14-Jun-2019 13:43:25 UTC] PHP Warning:  fopen(/home/tsdwzqqh/comimakeupblog.ml/comimakeupblog.ml/data/log.txt): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/konekcija.php on line 27
+[14-Jun-2019 13:43:25 UTC] PHP Fatal error:  Call to a member function query() on null in /home/tsdwzqqh/comimakeupblog.ml/config/konekcija.php on line 18
+[14-Jun-2019 13:53:54 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.ml/comimakeupblog.ml//config/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[14-Jun-2019 13:53:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[14-Jun-2019 13:53:54 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.ml/comimakeupblog.ml//config/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[14-Jun-2019 13:53:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[14-Jun-2019 13:53:54 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.ml/comimakeupblog.ml//config/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[14-Jun-2019 13:53:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[14-Jun-2019 13:53:54 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.ml/comimakeupblog.ml//config/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[14-Jun-2019 13:53:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[14-Jun-2019 13:53:54 UTC] PHP Warning:  fopen(/home/tsdwzqqh/comimakeupblog.ml/comimakeupblog.ml//data/log.txt): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/konekcija.php on line 27
+[14-Jun-2019 13:53:54 UTC] PHP Fatal error:  Call to a member function query() on null in /home/tsdwzqqh/comimakeupblog.ml/config/konekcija.php on line 18
+[14-Jun-2019 13:58:35 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.ml/comimakeupblog.ml//config/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[14-Jun-2019 13:58:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[14-Jun-2019 13:58:35 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.ml/comimakeupblog.ml//config/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[14-Jun-2019 13:58:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[14-Jun-2019 13:58:35 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.ml/comimakeupblog.ml//config/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[14-Jun-2019 13:58:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[14-Jun-2019 13:58:35 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.ml/comimakeupblog.ml//config/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[14-Jun-2019 13:58:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[14-Jun-2019 13:58:35 UTC] PHP Warning:  fopen(/home/tsdwzqqh/comimakeupblog.ml/comimakeupblog.ml//data/log.txt): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/konekcija.php on line 27
+[14-Jun-2019 13:58:35 UTC] PHP Fatal error:  Call to a member function query() on null in /home/tsdwzqqh/comimakeupblog.ml/config/konekcija.php on line 18
+[14-Jun-2019 14:04:31 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.ml/comimakeupblog.ml//config/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[14-Jun-2019 14:04:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[14-Jun-2019 14:04:31 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.ml/comimakeupblog.ml//config/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[14-Jun-2019 14:04:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[14-Jun-2019 14:04:31 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.ml/comimakeupblog.ml//config/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[14-Jun-2019 14:04:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[14-Jun-2019 14:04:31 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.ml/comimakeupblog.ml//config/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[14-Jun-2019 14:04:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[14-Jun-2019 14:04:31 UTC] PHP Warning:  fopen(/home/tsdwzqqh/comimakeupblog.ml/comimakeupblog.ml//data/log.txt): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/konekcija.php on line 27
+[14-Jun-2019 14:04:31 UTC] PHP Fatal error:  Call to a member function query() on null in /home/tsdwzqqh/comimakeupblog.ml/config/konekcija.php on line 18
+[14-Jun-2019 14:13:33 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.mlconfig/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[14-Jun-2019 14:13:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[14-Jun-2019 14:13:33 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.mlconfig/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[14-Jun-2019 14:13:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[14-Jun-2019 14:13:33 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.mlconfig/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[14-Jun-2019 14:13:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[14-Jun-2019 14:13:33 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.mlconfig/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[14-Jun-2019 14:13:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[14-Jun-2019 14:13:33 UTC] PHP Warning:  fopen(/home/tsdwzqqh/comimakeupblog.mldata/log.txt): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/konekcija.php on line 27
+[14-Jun-2019 14:13:33 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/tsdwzqqh/comimakeupblog.ml/models/prijavljivanje.php on line 23
+[14-Jun-2019 14:13:43 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.mlconfig/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[14-Jun-2019 14:13:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[14-Jun-2019 14:13:44 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.mlconfig/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[14-Jun-2019 14:13:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[14-Jun-2019 14:13:44 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.mlconfig/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[14-Jun-2019 14:13:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[14-Jun-2019 14:13:44 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.mlconfig/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[14-Jun-2019 14:13:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[14-Jun-2019 14:13:44 UTC] PHP Warning:  fopen(/home/tsdwzqqh/comimakeupblog.mldata/log.txt): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/konekcija.php on line 27
+[14-Jun-2019 14:13:44 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/tsdwzqqh/comimakeupblog.ml/models/prijavljivanje.php on line 23
+[14-Jun-2019 14:13:48 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.mlconfig/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[14-Jun-2019 14:13:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[14-Jun-2019 14:13:48 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.mlconfig/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[14-Jun-2019 14:13:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[14-Jun-2019 14:13:48 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.mlconfig/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[14-Jun-2019 14:13:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[14-Jun-2019 14:13:48 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.mlconfig/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[14-Jun-2019 14:13:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[14-Jun-2019 14:13:48 UTC] PHP Warning:  fopen(/home/tsdwzqqh/comimakeupblog.mldata/log.txt): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/konekcija.php on line 27
+[14-Jun-2019 14:13:48 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/tsdwzqqh/comimakeupblog.ml/models/prijavljivanje.php on line 23
+[14-Jun-2019 14:14:01 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.mlconfig/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[14-Jun-2019 14:14:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[14-Jun-2019 14:14:01 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.mlconfig/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[14-Jun-2019 14:14:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[14-Jun-2019 14:14:01 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.mlconfig/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[14-Jun-2019 14:14:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[14-Jun-2019 14:14:01 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.mlconfig/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[14-Jun-2019 14:14:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[14-Jun-2019 14:14:01 UTC] PHP Warning:  fopen(/home/tsdwzqqh/comimakeupblog.mldata/log.txt): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/konekcija.php on line 27
+[14-Jun-2019 14:14:01 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/tsdwzqqh/comimakeupblog.ml/models/prijavljivanje.php on line 23
+[14-Jun-2019 14:14:02 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.mlconfig/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[14-Jun-2019 14:14:02 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[14-Jun-2019 14:14:02 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.mlconfig/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[14-Jun-2019 14:14:02 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[14-Jun-2019 14:14:02 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.mlconfig/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[14-Jun-2019 14:14:02 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[14-Jun-2019 14:14:02 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.mlconfig/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[14-Jun-2019 14:14:02 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[14-Jun-2019 14:14:02 UTC] PHP Warning:  fopen(/home/tsdwzqqh/comimakeupblog.mldata/log.txt): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/konekcija.php on line 27
+[14-Jun-2019 14:14:02 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/tsdwzqqh/comimakeupblog.ml/models/prijavljivanje.php on line 23
+[14-Jun-2019 14:24:55 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/tsdwzqqh/comimakeupblog.ml/views/pages/izmena.php on line 21
+[14-Jun-2019 14:25:04 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/tsdwzqqh/comimakeupblog.ml/views/pages/izmena.php on line 21
+[14-Jun-2019 14:26:03 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/tsdwzqqh/comimakeupblog.ml/views/pages/izmena.php on line 21
+[14-Jun-2019 14:27:51 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/tsdwzqqh/comimakeupblog.ml/views/pages/izmena.php on line 21
+[14-Jun-2019 14:30:33 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/tsdwzqqh/comimakeupblog.ml/views/pages/izmena.php on line 21
+[14-Jun-2019 14:31:16 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/tsdwzqqh/comimakeupblog.ml/views/pages/izmena.php on line 21
+[14-Jun-2019 14:48:43 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/tsdwzqqh/comimakeupblog.ml/views/pages/izmena.php on line 21
+[14-Jun-2019 14:50:27 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/tsdwzqqh/comimakeupblog.ml/views/pages/izmena.php on line 21
+[14-Jun-2019 14:54:08 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/tsdwzqqh/comimakeupblog.ml/views/pages/izmena.php on line 21
+[14-Jun-2019 17:28:51 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/tsdwzqqh/comimakeupblog.ml/views/pages/izmena.php on line 21
+[15-Jun-2019 13:07:22 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.ml/comimakeupBlog.rs//config/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[15-Jun-2019 13:07:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[15-Jun-2019 13:07:22 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.ml/comimakeupBlog.rs//config/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[15-Jun-2019 13:07:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[15-Jun-2019 13:07:22 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.ml/comimakeupBlog.rs//config/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[15-Jun-2019 13:07:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[15-Jun-2019 13:07:22 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.ml/comimakeupBlog.rs//config/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[15-Jun-2019 13:07:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[15-Jun-2019 13:07:22 UTC] PHP Warning:  fopen(/home/tsdwzqqh/comimakeupblog.ml/comimakeupBlog.rs//data/log.txt): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/konekcija.php on line 27
+[15-Jun-2019 13:07:22 UTC] PHP Fatal error:  Call to a member function query() on null in /home/tsdwzqqh/comimakeupblog.ml/config/konekcija.php on line 18
+[15-Jun-2019 13:07:22 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.ml/comimakeupBlog.rs//config/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[15-Jun-2019 13:07:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[15-Jun-2019 13:07:22 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.ml/comimakeupBlog.rs//config/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[15-Jun-2019 13:07:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[15-Jun-2019 13:07:22 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.ml/comimakeupBlog.rs//config/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[15-Jun-2019 13:07:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[15-Jun-2019 13:07:22 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.ml/comimakeupBlog.rs//config/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[15-Jun-2019 13:07:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[15-Jun-2019 13:07:22 UTC] PHP Warning:  fopen(/home/tsdwzqqh/comimakeupblog.ml/comimakeupBlog.rs//data/log.txt): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/konekcija.php on line 27
+[15-Jun-2019 13:07:22 UTC] PHP Fatal error:  Call to a member function query() on null in /home/tsdwzqqh/comimakeupblog.ml/config/konekcija.php on line 18
+[15-Jun-2019 13:12:11 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.ml/comimakeupBlog.rs//config/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[15-Jun-2019 13:12:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[15-Jun-2019 13:12:11 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.ml/comimakeupBlog.rs//config/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[15-Jun-2019 13:12:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[15-Jun-2019 13:12:11 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.ml/comimakeupBlog.rs//config/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[15-Jun-2019 13:12:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[15-Jun-2019 13:12:11 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.ml/comimakeupBlog.rs//config/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[15-Jun-2019 13:12:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[15-Jun-2019 13:12:11 UTC] PHP Warning:  fopen(/home/tsdwzqqh/comimakeupblog.ml/comimakeupBlog.rs//data/log.txt): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/konekcija.php on line 27
+[15-Jun-2019 13:12:11 UTC] PHP Fatal error:  Call to a member function query() on null in /home/tsdwzqqh/comimakeupblog.ml/config/konekcija.php on line 18
+[15-Jun-2019 13:12:25 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.ml/comimakeupBlog.rs//config/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[15-Jun-2019 13:12:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[15-Jun-2019 13:12:25 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.ml/comimakeupBlog.rs//config/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[15-Jun-2019 13:12:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[15-Jun-2019 13:12:25 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.ml/comimakeupBlog.rs//config/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[15-Jun-2019 13:12:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[15-Jun-2019 13:12:25 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.ml/comimakeupBlog.rs//config/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[15-Jun-2019 13:12:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[15-Jun-2019 13:12:25 UTC] PHP Warning:  fopen(/home/tsdwzqqh/comimakeupblog.ml/comimakeupBlog.rs//data/log.txt): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/konekcija.php on line 27
+[15-Jun-2019 13:12:25 UTC] PHP Fatal error:  Call to a member function query() on null in /home/tsdwzqqh/comimakeupblog.ml/config/konekcija.php on line 18
+[15-Jun-2019 13:14:13 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.ml/comimakeupBlog.rs//config/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[15-Jun-2019 13:14:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[15-Jun-2019 13:14:13 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.ml/comimakeupBlog.rs//config/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[15-Jun-2019 13:14:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[15-Jun-2019 13:14:13 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.ml/comimakeupBlog.rs//config/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[15-Jun-2019 13:14:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[15-Jun-2019 13:14:13 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.ml/comimakeupBlog.rs//config/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[15-Jun-2019 13:14:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[15-Jun-2019 13:14:13 UTC] PHP Warning:  fopen(/home/tsdwzqqh/comimakeupblog.ml/comimakeupBlog.rs//data/log.txt): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/konekcija.php on line 27
+[15-Jun-2019 13:14:13 UTC] PHP Fatal error:  Call to a member function query() on null in /home/tsdwzqqh/comimakeupblog.ml/config/konekcija.php on line 18
+[15-Jun-2019 13:14:17 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.ml/comimakeupBlog.rs//config/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[15-Jun-2019 13:14:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[15-Jun-2019 13:14:17 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.ml/comimakeupBlog.rs//config/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[15-Jun-2019 13:14:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[15-Jun-2019 13:14:17 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.ml/comimakeupBlog.rs//config/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[15-Jun-2019 13:14:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[15-Jun-2019 13:14:17 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.ml/comimakeupBlog.rs//config/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[15-Jun-2019 13:14:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[15-Jun-2019 13:14:17 UTC] PHP Warning:  fopen(/home/tsdwzqqh/comimakeupblog.ml/comimakeupBlog.rs//data/log.txt): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/konekcija.php on line 27
+[15-Jun-2019 13:14:17 UTC] PHP Fatal error:  Call to a member function query() on null in /home/tsdwzqqh/comimakeupblog.ml/config/konekcija.php on line 18
+[15-Jun-2019 13:14:40 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.ml/comimakeupBlog.rs//config/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[15-Jun-2019 13:14:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[15-Jun-2019 13:14:40 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.ml/comimakeupBlog.rs//config/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[15-Jun-2019 13:14:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[15-Jun-2019 13:14:40 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.ml/comimakeupBlog.rs//config/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[15-Jun-2019 13:14:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[15-Jun-2019 13:14:40 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.ml/comimakeupBlog.rs//config/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[15-Jun-2019 13:14:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[15-Jun-2019 13:14:40 UTC] PHP Warning:  fopen(/home/tsdwzqqh/comimakeupblog.ml/comimakeupBlog.rs//data/log.txt): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/konekcija.php on line 27
+[15-Jun-2019 13:14:40 UTC] PHP Fatal error:  Call to a member function query() on null in /home/tsdwzqqh/comimakeupblog.ml/config/konekcija.php on line 18
+[15-Jun-2019 13:15:33 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.ml/comimakeupblog.ml//config/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[15-Jun-2019 13:15:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[15-Jun-2019 13:15:33 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.ml/comimakeupblog.ml//config/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[15-Jun-2019 13:15:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[15-Jun-2019 13:15:33 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.ml/comimakeupblog.ml//config/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[15-Jun-2019 13:15:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[15-Jun-2019 13:15:33 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.ml/comimakeupblog.ml//config/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[15-Jun-2019 13:15:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[15-Jun-2019 13:15:33 UTC] PHP Warning:  fopen(/home/tsdwzqqh/comimakeupblog.ml/comimakeupblog.ml//data/log.txt): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/konekcija.php on line 27
+[15-Jun-2019 13:15:33 UTC] PHP Fatal error:  Call to a member function query() on null in /home/tsdwzqqh/comimakeupblog.ml/config/konekcija.php on line 18
+[15-Jun-2019 13:16:04 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.ml/comimakeupblog.ml/config/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[15-Jun-2019 13:16:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[15-Jun-2019 13:16:04 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.ml/comimakeupblog.ml/config/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[15-Jun-2019 13:16:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[15-Jun-2019 13:16:04 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.ml/comimakeupblog.ml/config/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[15-Jun-2019 13:16:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[15-Jun-2019 13:16:04 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.ml/comimakeupblog.ml/config/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[15-Jun-2019 13:16:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[15-Jun-2019 13:16:04 UTC] PHP Warning:  fopen(/home/tsdwzqqh/comimakeupblog.ml/comimakeupblog.ml/data/log.txt): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/konekcija.php on line 27
+[15-Jun-2019 13:16:04 UTC] PHP Fatal error:  Call to a member function query() on null in /home/tsdwzqqh/comimakeupblog.ml/config/konekcija.php on line 18
+[15-Jun-2019 13:16:05 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.ml/comimakeupblog.ml/config/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[15-Jun-2019 13:16:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[15-Jun-2019 13:16:05 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.ml/comimakeupblog.ml/config/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[15-Jun-2019 13:16:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[15-Jun-2019 13:16:05 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.ml/comimakeupblog.ml/config/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[15-Jun-2019 13:16:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[15-Jun-2019 13:16:05 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.ml/comimakeupblog.ml/config/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[15-Jun-2019 13:16:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[15-Jun-2019 13:16:05 UTC] PHP Warning:  fopen(/home/tsdwzqqh/comimakeupblog.ml/comimakeupblog.ml/data/log.txt): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/konekcija.php on line 27
+[15-Jun-2019 13:16:05 UTC] PHP Fatal error:  Call to a member function query() on null in /home/tsdwzqqh/comimakeupblog.ml/config/konekcija.php on line 18
+[15-Jun-2019 13:16:06 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.ml/comimakeupblog.ml/config/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[15-Jun-2019 13:16:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[15-Jun-2019 13:16:06 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.ml/comimakeupblog.ml/config/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[15-Jun-2019 13:16:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[15-Jun-2019 13:16:06 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.ml/comimakeupblog.ml/config/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[15-Jun-2019 13:16:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[15-Jun-2019 13:16:06 UTC] PHP Warning:  file(/home/tsdwzqqh/comimakeupblog.ml/comimakeupblog.ml/config/.env): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 17
+[15-Jun-2019 13:16:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tsdwzqqh/comimakeupblog.ml/config/config.php on line 19
+[15-Jun-2019 13:16:06 UTC] PHP Warning:  fopen(/home/tsdwzqqh/comimakeupblog.ml/comimakeupblog.ml/data/log.txt): failed to open stream: No such file or directory in /home/tsdwzqqh/comimakeupblog.ml/config/konekcija.php on line 27
+[15-Jun-2019 13:16:06 UTC] PHP Fatal error:  Call to a member function query() on null in /home/tsdwzqqh/comimakeupblog.ml/config/konekcija.php on line 18
+[15-Jun-2019 13:24:30 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS) in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php on line 6
+[15-Jun-2019 13:24:33 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS) in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php on line 6
+[15-Jun-2019 13:24:44 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS) in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php on line 6
+[15-Jun-2019 13:24:49 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS) in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php on line 6
+[15-Jun-2019 13:25:30 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS) in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php on line 6
+[15-Jun-2019 13:25:33 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS) in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php on line 6
+[15-Jun-2019 13:25:36 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS) in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php on line 6
+[15-Jun-2019 13:25:38 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS) in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php on line 6
+[15-Jun-2019 13:25:39 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS) in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php on line 6
+[15-Jun-2019 13:25:49 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS) in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php on line 6
+[15-Jun-2019 13:26:02 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS) in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php on line 6
+[15-Jun-2019 13:26:15 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS) in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php on line 6
+[15-Jun-2019 13:26:19 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS) in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php on line 6
+[15-Jun-2019 13:28:41 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS) in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php on line 6
+[15-Jun-2019 13:28:48 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS) in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php on line 6
+[15-Jun-2019 13:28:56 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS) in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php on line 6
+[15-Jun-2019 13:29:45 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS) in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php on line 6
+[15-Jun-2019 13:31:18 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS) in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php on line 6
+[15-Jun-2019 13:31:41 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS) in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php on line 6
+[15-Jun-2019 13:32:26 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS) in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php on line 6
+[15-Jun-2019 13:37:03 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS) in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php on line 6
+[15-Jun-2019 13:37:17 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS) in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php on line 6
+[15-Jun-2019 13:47:12 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS) in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php on line 6
+[15-Jun-2019 13:49:10 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS) in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php on line 6
+[15-Jun-2019 13:49:46 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS) in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php on line 6
+[15-Jun-2019 13:55:48 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS) in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php on line 6
+[15-Jun-2019 13:55:51 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS) in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php on line 6
+[15-Jun-2019 14:00:38 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS) in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php on line 6
+[15-Jun-2019 14:02:10 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS) in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php on line 6
+[15-Jun-2019 14:50:38 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS) in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php on line 6
+[15-Jun-2019 14:54:26 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS) in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php on line 6
+[15-Jun-2019 17:12:32 UTC] PHP Fatal error:  Call to undefined function pristupPoslednjemDanu() in /home/tsdwzqqh/comimakeupblog.ml/views/pages/admin.php on line 8
+[15-Jun-2019 17:12:38 UTC] PHP Fatal error:  Call to undefined function pristupPoslednjemDanu() in /home/tsdwzqqh/comimakeupblog.ml/views/pages/admin.php on line 8
+[15-Jun-2019 17:12:38 UTC] PHP Fatal error:  Call to undefined function pristupPoslednjemDanu() in /home/tsdwzqqh/comimakeupblog.ml/views/pages/admin.php on line 8
+[15-Jun-2019 17:12:38 UTC] PHP Fatal error:  Call to undefined function pristupPoslednjemDanu() in /home/tsdwzqqh/comimakeupblog.ml/views/pages/admin.php on line 8
+[15-Jun-2019 17:12:40 UTC] PHP Fatal error:  Call to undefined function pristupPoslednjemDanu() in /home/tsdwzqqh/comimakeupblog.ml/views/pages/admin.php on line 8
+[15-Jun-2019 17:13:40 UTC] PHP Fatal error:  Call to undefined function pristupPoslednjemDanu() in /home/tsdwzqqh/comimakeupblog.ml/views/pages/admin.php on line 9
+[15-Jun-2019 17:13:54 UTC] PHP Fatal error:  Call to undefined function pristupPoslednjemDanu() in /home/tsdwzqqh/comimakeupblog.ml/views/pages/admin.php on line 9
+[15-Jun-2019 17:15:35 UTC] PHP Fatal error:  Call to undefined function pristupPoslednjemDanu() in /home/tsdwzqqh/comimakeupblog.ml/views/pages/admin.php on line 9
+[15-Jun-2019 17:19:24 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS) in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php on line 6
+[15-Jun-2019 17:20:13 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS) in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php on line 6
+[15-Jun-2019 17:24:28 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS) in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php on line 6
+[15-Jun-2019 17:25:59 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS) in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php on line 6
+[15-Jun-2019 17:26:33 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS) in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php on line 6
+[15-Jun-2019 17:33:41 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS) in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php on line 6
+[15-Jun-2019 17:34:24 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS) in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php on line 6
+[15-Jun-2019 17:46:00 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS) in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php on line 6
+[15-Jun-2019 17:46:08 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS) in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php on line 6
+[15-Jun-2019 17:49:59 UTC] PHP Fatal error:  Call to undefined function pristupPoslednjemDanu() in /home/tsdwzqqh/comimakeupblog.ml/views/pages/admin.php on line 9
+[15-Jun-2019 17:50:58 UTC] PHP Fatal error:  Call to undefined function procenatPosete() in /home/tsdwzqqh/comimakeupblog.ml/views/pages/admin.php on line 10
+[15-Jun-2019 19:15:39 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type class@anonymous as array in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php:67
+Stack trace:
+#0 /home/tsdwzqqh/comimakeupblog.ml/views/pages/admin.php(9): pristupPoslednjemDanu()
+#1 /home/tsdwzqqh/comimakeupblog.ml/index.php(12): include('/home/tsdwzqqh/...')
+#2 {main}
+  thrown in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php on line 67
+[15-Jun-2019 19:15:57 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type class@anonymous as array in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php:67
+Stack trace:
+#0 /home/tsdwzqqh/comimakeupblog.ml/views/pages/admin.php(9): pristupPoslednjemDanu()
+#1 /home/tsdwzqqh/comimakeupblog.ml/index.php(12): include('/home/tsdwzqqh/...')
+#2 {main}
+  thrown in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php on line 67
+[15-Jun-2019 19:16:00 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type class@anonymous as array in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php:67
+Stack trace:
+#0 /home/tsdwzqqh/comimakeupblog.ml/views/pages/admin.php(9): pristupPoslednjemDanu()
+#1 /home/tsdwzqqh/comimakeupblog.ml/index.php(12): include('/home/tsdwzqqh/...')
+#2 {main}
+  thrown in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php on line 67
+[15-Jun-2019 19:16:09 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type class@anonymous as array in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php:67
+Stack trace:
+#0 /home/tsdwzqqh/comimakeupblog.ml/views/pages/admin.php(9): pristupPoslednjemDanu()
+#1 /home/tsdwzqqh/comimakeupblog.ml/index.php(12): include('/home/tsdwzqqh/...')
+#2 {main}
+  thrown in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php on line 67
+[15-Jun-2019 19:16:19 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type class@anonymous as array in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php:67
+Stack trace:
+#0 /home/tsdwzqqh/comimakeupblog.ml/views/pages/admin.php(9): pristupPoslednjemDanu()
+#1 /home/tsdwzqqh/comimakeupblog.ml/index.php(12): include('/home/tsdwzqqh/...')
+#2 {main}
+  thrown in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php on line 67
+[15-Jun-2019 19:17:24 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type class@anonymous as array in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php:67
+Stack trace:
+#0 /home/tsdwzqqh/comimakeupblog.ml/views/pages/admin.php(9): pristupPoslednjemDanu()
+#1 /home/tsdwzqqh/comimakeupblog.ml/index.php(12): include('/home/tsdwzqqh/...')
+#2 {main}
+  thrown in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php on line 67
+[15-Jun-2019 19:24:45 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type class@anonymous as array in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php:67
+Stack trace:
+#0 /home/tsdwzqqh/comimakeupblog.ml/views/pages/admin.php(9): pristupPoslednjemDanu()
+#1 /home/tsdwzqqh/comimakeupblog.ml/index.php(12): include('/home/tsdwzqqh/...')
+#2 {main}
+  thrown in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php on line 67
+[15-Jun-2019 19:37:25 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type class@anonymous as array in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php:67
+Stack trace:
+#0 /home/tsdwzqqh/comimakeupblog.ml/views/pages/admin.php(9): pristupPoslednjemDanu()
+#1 /home/tsdwzqqh/comimakeupblog.ml/index.php(12): include('/home/tsdwzqqh/...')
+#2 {main}
+  thrown in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php on line 67
+[15-Jun-2019 19:37:30 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type class@anonymous as array in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php:67
+Stack trace:
+#0 /home/tsdwzqqh/comimakeupblog.ml/views/pages/admin.php(9): pristupPoslednjemDanu()
+#1 /home/tsdwzqqh/comimakeupblog.ml/index.php(12): include('/home/tsdwzqqh/...')
+#2 {main}
+  thrown in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php on line 67
+[15-Jun-2019 19:37:37 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type class@anonymous as array in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php:67
+Stack trace:
+#0 /home/tsdwzqqh/comimakeupblog.ml/views/pages/admin.php(9): pristupPoslednjemDanu()
+#1 /home/tsdwzqqh/comimakeupblog.ml/index.php(12): include('/home/tsdwzqqh/...')
+#2 {main}
+  thrown in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php on line 67
+[15-Jun-2019 19:37:46 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type class@anonymous as array in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php:67
+Stack trace:
+#0 /home/tsdwzqqh/comimakeupblog.ml/views/pages/admin.php(9): pristupPoslednjemDanu()
+#1 /home/tsdwzqqh/comimakeupblog.ml/index.php(12): include('/home/tsdwzqqh/...')
+#2 {main}
+  thrown in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php on line 67
+[15-Jun-2019 19:38:02 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type class@anonymous as array in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php:67
+Stack trace:
+#0 /home/tsdwzqqh/comimakeupblog.ml/views/pages/admin.php(9): pristupPoslednjemDanu()
+#1 /home/tsdwzqqh/comimakeupblog.ml/index.php(12): include('/home/tsdwzqqh/...')
+#2 {main}
+  thrown in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php on line 67
+[15-Jun-2019 19:38:17 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type class@anonymous as array in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php:67
+Stack trace:
+#0 /home/tsdwzqqh/comimakeupblog.ml/views/pages/admin.php(9): pristupPoslednjemDanu()
+#1 /home/tsdwzqqh/comimakeupblog.ml/index.php(12): include('/home/tsdwzqqh/...')
+#2 {main}
+  thrown in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php on line 67
+[15-Jun-2019 19:38:19 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type class@anonymous as array in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php:67
+Stack trace:
+#0 /home/tsdwzqqh/comimakeupblog.ml/views/pages/admin.php(9): pristupPoslednjemDanu()
+#1 /home/tsdwzqqh/comimakeupblog.ml/index.php(12): include('/home/tsdwzqqh/...')
+#2 {main}
+  thrown in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php on line 67
+[15-Jun-2019 19:38:26 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type class@anonymous as array in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php:67
+Stack trace:
+#0 /home/tsdwzqqh/comimakeupblog.ml/views/pages/admin.php(9): pristupPoslednjemDanu()
+#1 /home/tsdwzqqh/comimakeupblog.ml/index.php(12): include('/home/tsdwzqqh/...')
+#2 {main}
+  thrown in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php on line 67
+[15-Jun-2019 19:38:34 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type class@anonymous as array in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php:67
+Stack trace:
+#0 /home/tsdwzqqh/comimakeupblog.ml/views/pages/admin.php(9): pristupPoslednjemDanu()
+#1 /home/tsdwzqqh/comimakeupblog.ml/index.php(12): include('/home/tsdwzqqh/...')
+#2 {main}
+  thrown in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php on line 67
+[15-Jun-2019 19:38:39 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type class@anonymous as array in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php:67
+Stack trace:
+#0 /home/tsdwzqqh/comimakeupblog.ml/views/pages/admin.php(9): pristupPoslednjemDanu()
+#1 /home/tsdwzqqh/comimakeupblog.ml/index.php(12): include('/home/tsdwzqqh/...')
+#2 {main}
+  thrown in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php on line 67
+[15-Jun-2019 19:38:50 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type class@anonymous as array in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php:67
+Stack trace:
+#0 /home/tsdwzqqh/comimakeupblog.ml/views/pages/admin.php(9): pristupPoslednjemDanu()
+#1 /home/tsdwzqqh/comimakeupblog.ml/index.php(12): include('/home/tsdwzqqh/...')
+#2 {main}
+  thrown in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php on line 67
+[15-Jun-2019 19:38:57 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type class@anonymous as array in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php:67
+Stack trace:
+#0 /home/tsdwzqqh/comimakeupblog.ml/views/pages/admin.php(9): pristupPoslednjemDanu()
+#1 /home/tsdwzqqh/comimakeupblog.ml/index.php(12): include('/home/tsdwzqqh/...')
+#2 {main}
+  thrown in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php on line 67
+[15-Jun-2019 19:39:10 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type class@anonymous as array in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php:67
+Stack trace:
+#0 /home/tsdwzqqh/comimakeupblog.ml/views/pages/admin.php(9): pristupPoslednjemDanu()
+#1 /home/tsdwzqqh/comimakeupblog.ml/index.php(12): include('/home/tsdwzqqh/...')
+#2 {main}
+  thrown in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php on line 67
+[15-Jun-2019 19:43:43 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type class@anonymous as array in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php:67
+Stack trace:
+#0 /home/tsdwzqqh/comimakeupblog.ml/views/pages/admin.php(9): pristupPoslednjemDanu()
+#1 /home/tsdwzqqh/comimakeupblog.ml/index.php(12): include('/home/tsdwzqqh/...')
+#2 {main}
+  thrown in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php on line 67
+[15-Jun-2019 19:45:56 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type class@anonymous as array in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php:67
+Stack trace:
+#0 /home/tsdwzqqh/comimakeupblog.ml/views/pages/admin.php(9): pristupPoslednjemDanu()
+#1 /home/tsdwzqqh/comimakeupblog.ml/index.php(12): include('/home/tsdwzqqh/...')
+#2 {main}
+  thrown in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php on line 67
+[15-Jun-2019 19:46:26 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type class@anonymous as array in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php:67
+Stack trace:
+#0 /home/tsdwzqqh/comimakeupblog.ml/views/pages/admin.php(9): pristupPoslednjemDanu()
+#1 /home/tsdwzqqh/comimakeupblog.ml/index.php(12): include('/home/tsdwzqqh/...')
+#2 {main}
+  thrown in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php on line 67
+[15-Jun-2019 19:46:29 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type class@anonymous as array in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php:67
+Stack trace:
+#0 /home/tsdwzqqh/comimakeupblog.ml/views/pages/admin.php(9): pristupPoslednjemDanu()
+#1 /home/tsdwzqqh/comimakeupblog.ml/index.php(12): include('/home/tsdwzqqh/...')
+#2 {main}
+  thrown in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php on line 67
+[15-Jun-2019 19:47:40 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type class@anonymous as array in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php:67
+Stack trace:
+#0 /home/tsdwzqqh/comimakeupblog.ml/views/pages/admin.php(9): pristupPoslednjemDanu()
+#1 /home/tsdwzqqh/comimakeupblog.ml/index.php(12): include('/home/tsdwzqqh/...')
+#2 {main}
+  thrown in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php on line 67
+[15-Jun-2019 19:47:42 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type class@anonymous as array in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php:67
+Stack trace:
+#0 /home/tsdwzqqh/comimakeupblog.ml/views/pages/admin.php(9): pristupPoslednjemDanu()
+#1 /home/tsdwzqqh/comimakeupblog.ml/index.php(12): include('/home/tsdwzqqh/...')
+#2 {main}
+  thrown in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php on line 67
+[15-Jun-2019 19:47:45 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type class@anonymous as array in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php:67
+Stack trace:
+#0 /home/tsdwzqqh/comimakeupblog.ml/views/pages/admin.php(9): pristupPoslednjemDanu()
+#1 /home/tsdwzqqh/comimakeupblog.ml/index.php(12): include('/home/tsdwzqqh/...')
+#2 {main}
+  thrown in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php on line 67
+[15-Jun-2019 19:48:13 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type class@anonymous as array in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php:67
+Stack trace:
+#0 /home/tsdwzqqh/comimakeupblog.ml/views/pages/admin.php(9): pristupPoslednjemDanu()
+#1 /home/tsdwzqqh/comimakeupblog.ml/index.php(12): include('/home/tsdwzqqh/...')
+#2 {main}
+  thrown in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php on line 67
+[15-Jun-2019 19:48:24 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type class@anonymous as array in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php:67
+Stack trace:
+#0 /home/tsdwzqqh/comimakeupblog.ml/views/pages/admin.php(9): pristupPoslednjemDanu()
+#1 /home/tsdwzqqh/comimakeupblog.ml/index.php(12): include('/home/tsdwzqqh/...')
+#2 {main}
+  thrown in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php on line 67
+[15-Jun-2019 19:49:17 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type class@anonymous as array in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php:67
+Stack trace:
+#0 /home/tsdwzqqh/comimakeupblog.ml/views/pages/admin.php(9): pristupPoslednjemDanu()
+#1 /home/tsdwzqqh/comimakeupblog.ml/index.php(12): include('/home/tsdwzqqh/...')
+#2 {main}
+  thrown in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php on line 67
+[15-Jun-2019 19:50:01 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type class@anonymous as array in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php:67
+Stack trace:
+#0 /home/tsdwzqqh/comimakeupblog.ml/views/pages/admin.php(9): pristupPoslednjemDanu()
+#1 /home/tsdwzqqh/comimakeupblog.ml/index.php(12): include('/home/tsdwzqqh/...')
+#2 {main}
+  thrown in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php on line 67
+[15-Jun-2019 19:50:14 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type class@anonymous as array in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php:67
+Stack trace:
+#0 /home/tsdwzqqh/comimakeupblog.ml/views/pages/admin.php(9): pristupPoslednjemDanu()
+#1 /home/tsdwzqqh/comimakeupblog.ml/index.php(12): include('/home/tsdwzqqh/...')
+#2 {main}
+  thrown in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php on line 67
+[15-Jun-2019 19:50:57 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type class@anonymous as array in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php:67
+Stack trace:
+#0 /home/tsdwzqqh/comimakeupblog.ml/views/pages/admin.php(9): pristupPoslednjemDanu()
+#1 /home/tsdwzqqh/comimakeupblog.ml/index.php(12): include('/home/tsdwzqqh/...')
+#2 {main}
+  thrown in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php on line 67
+[15-Jun-2019 19:51:33 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type class@anonymous as array in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php:67
+Stack trace:
+#0 /home/tsdwzqqh/comimakeupblog.ml/views/pages/admin.php(9): pristupPoslednjemDanu()
+#1 /home/tsdwzqqh/comimakeupblog.ml/index.php(12): include('/home/tsdwzqqh/...')
+#2 {main}
+  thrown in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php on line 67
+[15-Jun-2019 19:54:08 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type class@anonymous as array in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php:67
+Stack trace:
+#0 /home/tsdwzqqh/comimakeupblog.ml/views/pages/admin.php(9): pristupPoslednjemDanu()
+#1 /home/tsdwzqqh/comimakeupblog.ml/index.php(12): include('/home/tsdwzqqh/...')
+#2 {main}
+  thrown in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php on line 67
+[15-Jun-2019 19:54:50 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type class@anonymous as array in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php:67
+Stack trace:
+#0 /home/tsdwzqqh/comimakeupblog.ml/views/pages/admin.php(9): pristupPoslednjemDanu()
+#1 /home/tsdwzqqh/comimakeupblog.ml/index.php(12): include('/home/tsdwzqqh/...')
+#2 {main}
+  thrown in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php on line 67
+[15-Jun-2019 19:54:53 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type class@anonymous as array in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php:67
+Stack trace:
+#0 /home/tsdwzqqh/comimakeupblog.ml/views/pages/admin.php(9): pristupPoslednjemDanu()
+#1 /home/tsdwzqqh/comimakeupblog.ml/index.php(12): include('/home/tsdwzqqh/...')
+#2 {main}
+  thrown in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php on line 67
+[15-Jun-2019 19:56:17 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type class@anonymous as array in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php:67
+Stack trace:
+#0 /home/tsdwzqqh/comimakeupblog.ml/views/pages/admin.php(9): pristupPoslednjemDanu()
+#1 /home/tsdwzqqh/comimakeupblog.ml/index.php(12): include('/home/tsdwzqqh/...')
+#2 {main}
+  thrown in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php on line 67
+[15-Jun-2019 19:57:02 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type class@anonymous as array in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php:67
+Stack trace:
+#0 /home/tsdwzqqh/comimakeupblog.ml/views/pages/admin.php(9): pristupPoslednjemDanu()
+#1 /home/tsdwzqqh/comimakeupblog.ml/index.php(12): include('/home/tsdwzqqh/...')
+#2 {main}
+  thrown in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php on line 67
+[15-Jun-2019 19:58:20 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type class@anonymous as array in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php:67
+Stack trace:
+#0 /home/tsdwzqqh/comimakeupblog.ml/views/pages/admin.php(9): pristupPoslednjemDanu()
+#1 /home/tsdwzqqh/comimakeupblog.ml/index.php(12): include('/home/tsdwzqqh/...')
+#2 {main}
+  thrown in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php on line 67
+[15-Jun-2019 19:58:23 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type class@anonymous as array in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php:67
+Stack trace:
+#0 /home/tsdwzqqh/comimakeupblog.ml/views/pages/admin.php(9): pristupPoslednjemDanu()
+#1 /home/tsdwzqqh/comimakeupblog.ml/index.php(12): include('/home/tsdwzqqh/...')
+#2 {main}
+  thrown in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php on line 67
+[15-Jun-2019 19:59:14 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type class@anonymous as array in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php:67
+Stack trace:
+#0 /home/tsdwzqqh/comimakeupblog.ml/views/pages/admin.php(9): pristupPoslednjemDanu()
+#1 /home/tsdwzqqh/comimakeupblog.ml/index.php(12): include('/home/tsdwzqqh/...')
+#2 {main}
+  thrown in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php on line 67
+[15-Jun-2019 20:00:48 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type class@anonymous as array in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php:67
+Stack trace:
+#0 /home/tsdwzqqh/comimakeupblog.ml/views/pages/admin.php(9): pristupPoslednjemDanu()
+#1 /home/tsdwzqqh/comimakeupblog.ml/index.php(12): include('/home/tsdwzqqh/...')
+#2 {main}
+  thrown in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php on line 67
+[15-Jun-2019 20:01:42 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type class@anonymous as array in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php:67
+Stack trace:
+#0 /home/tsdwzqqh/comimakeupblog.ml/views/pages/admin.php(9): pristupPoslednjemDanu()
+#1 /home/tsdwzqqh/comimakeupblog.ml/index.php(12): include('/home/tsdwzqqh/...')
+#2 {main}
+  thrown in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php on line 67
+[15-Jun-2019 20:09:23 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type class@anonymous as array in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php:67
+Stack trace:
+#0 /home/tsdwzqqh/comimakeupblog.ml/views/pages/admin.php(9): pristupPoslednjemDanu()
+#1 /home/tsdwzqqh/comimakeupblog.ml/index.php(12): include('/home/tsdwzqqh/...')
+#2 {main}
+  thrown in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php on line 67
+[15-Jun-2019 20:09:49 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type class@anonymous as array in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php:67
+Stack trace:
+#0 /home/tsdwzqqh/comimakeupblog.ml/views/pages/admin.php(9): pristupPoslednjemDanu()
+#1 /home/tsdwzqqh/comimakeupblog.ml/index.php(12): include('/home/tsdwzqqh/...')
+#2 {main}
+  thrown in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php on line 67
+[15-Jun-2019 20:11:07 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type class@anonymous as array in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php:67
+Stack trace:
+#0 /home/tsdwzqqh/comimakeupblog.ml/views/pages/admin.php(9): pristupPoslednjemDanu()
+#1 /home/tsdwzqqh/comimakeupblog.ml/index.php(12): include('/home/tsdwzqqh/...')
+#2 {main}
+  thrown in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php on line 67
+[15-Jun-2019 20:11:09 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type class@anonymous as array in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php:67
+Stack trace:
+#0 /home/tsdwzqqh/comimakeupblog.ml/views/pages/admin.php(9): pristupPoslednjemDanu()
+#1 /home/tsdwzqqh/comimakeupblog.ml/index.php(12): include('/home/tsdwzqqh/...')
+#2 {main}
+  thrown in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php on line 67
+[15-Jun-2019 20:11:33 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type class@anonymous as array in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php:67
+Stack trace:
+#0 /home/tsdwzqqh/comimakeupblog.ml/views/pages/admin.php(9): pristupPoslednjemDanu()
+#1 /home/tsdwzqqh/comimakeupblog.ml/index.php(12): include('/home/tsdwzqqh/...')
+#2 {main}
+  thrown in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php on line 67
+[15-Jun-2019 20:19:10 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type class@anonymous as array in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php:67
+Stack trace:
+#0 /home/tsdwzqqh/comimakeupblog.ml/views/pages/admin.php(9): pristupPoslednjemDanu()
+#1 /home/tsdwzqqh/comimakeupblog.ml/index.php(12): include('/home/tsdwzqqh/...')
+#2 {main}
+  thrown in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php on line 67
+[15-Jun-2019 20:19:11 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type class@anonymous as array in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php:67
+Stack trace:
+#0 /home/tsdwzqqh/comimakeupblog.ml/views/pages/admin.php(9): pristupPoslednjemDanu()
+#1 /home/tsdwzqqh/comimakeupblog.ml/index.php(12): include('/home/tsdwzqqh/...')
+#2 {main}
+  thrown in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php on line 67
+[15-Jun-2019 20:21:12 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type class@anonymous as array in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php:67
+Stack trace:
+#0 /home/tsdwzqqh/comimakeupblog.ml/views/pages/admin.php(9): pristupPoslednjemDanu()
+#1 /home/tsdwzqqh/comimakeupblog.ml/index.php(12): include('/home/tsdwzqqh/...')
+#2 {main}
+  thrown in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php on line 67
+[15-Jun-2019 20:22:33 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type class@anonymous as array in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php:67
+Stack trace:
+#0 /home/tsdwzqqh/comimakeupblog.ml/views/pages/admin.php(9): pristupPoslednjemDanu()
+#1 /home/tsdwzqqh/comimakeupblog.ml/index.php(12): include('/home/tsdwzqqh/...')
+#2 {main}
+  thrown in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php on line 67
+[15-Jun-2019 20:22:38 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type class@anonymous as array in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php:67
+Stack trace:
+#0 /home/tsdwzqqh/comimakeupblog.ml/views/pages/admin.php(9): pristupPoslednjemDanu()
+#1 /home/tsdwzqqh/comimakeupblog.ml/index.php(12): include('/home/tsdwzqqh/...')
+#2 {main}
+  thrown in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php on line 67
+[15-Jun-2019 20:26:25 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS) in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php on line 6
+[15-Jun-2019 20:27:32 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS) in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php on line 6
+[15-Jun-2019 20:28:49 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS) in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php on line 6
+[15-Jun-2019 20:30:08 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS) in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php on line 6
+[15-Jun-2019 20:30:15 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS) in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php on line 6
+[15-Jun-2019 20:30:26 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS) in /home/tsdwzqqh/comimakeupblog.ml/models/admin/functions.php on line 6
+[15-Jun-2019 20:52:44 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/tsdwzqqh/comimakeupblog.ml/views/pages/admin.php on line 18
+[15-Jun-2019 20:55:56 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/tsdwzqqh/comimakeupblog.ml/views/pages/admin.php on line 18
+[15-Jun-2019 20:57:56 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/tsdwzqqh/comimakeupblog.ml/views/pages/admin.php on line 18
+[15-Jun-2019 21:14:22 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/tsdwzqqh/comimakeupblog.ml/views/pages/admin.php on line 18
+[15-Jun-2019 21:14:45 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/tsdwzqqh/comimakeupblog.ml/views/pages/admin.php on line 18
+[15-Jun-2019 21:23:22 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/tsdwzqqh/comimakeupblog.ml/views/pages/admin.php on line 18
+[15-Jun-2019 21:24:47 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/tsdwzqqh/comimakeupblog.ml/views/pages/admin.php on line 18
+[15-Jun-2019 21:27:20 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/tsdwzqqh/comimakeupblog.ml/views/pages/admin.php on line 18
+[15-Jun-2019 21:30:53 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/tsdwzqqh/comimakeupblog.ml/views/pages/admin.php on line 18
+[15-Jun-2019 21:33:06 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/tsdwzqqh/comimakeupblog.ml/views/pages/admin.php on line 18
+[16-Jun-2019 06:38:25 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'OUTER JOIN slike s ON p.slikaPostaID=s.idSlike' at line 1 in /home/tsdwzqqh/comimakeupblog.ml/config/konekcija.php:17
+Stack trace:
+#0 /home/tsdwzqqh/comimakeupblog.ml/config/konekcija.php(17): PDO->query('SELECT * FROM p...')
+#1 /home/tsdwzqqh/comimakeupblog.ml/models/postovi/postoviFunkcije.php(26): executeQuery('SELECT * FROM p...')
+#2 /home/tsdwzqqh/comimakeupblog.ml/views/pages/admin.php(187): dohvatiSvePostoveZaAdmin()
+#3 /home/tsdwzqqh/comimakeupblog.ml/index.php(12): include('/home/tsdwzqqh/...')
+#4 {main}
+  thrown in /home/tsdwzqqh/comimakeupblog.ml/config/konekcija.php on line 17
+[16-Jun-2019 08:12:13 UTC] PHP Parse error:  syntax error, unexpected '$newpost' (T_VARIABLE) in /home/tsdwzqqh/comimakeupblog.ml/views/pages/admin.php on line 58
+[16-Jun-2019 08:12:24 UTC] PHP Parse error:  syntax error, unexpected '$newpost' (T_VARIABLE) in /home/tsdwzqqh/comimakeupblog.ml/views/pages/admin.php on line 58
+[16-Jun-2019 08:12:26 UTC] PHP Parse error:  syntax error, unexpected '$newpost' (T_VARIABLE) in /home/tsdwzqqh/comimakeupblog.ml/views/pages/admin.php on line 58
+[16-Jun-2019 08:12:30 UTC] PHP Parse error:  syntax error, unexpected '$newpost' (T_VARIABLE) in /home/tsdwzqqh/comimakeupblog.ml/views/pages/admin.php on line 58
+[16-Jun-2019 08:12:32 UTC] PHP Parse error:  syntax error, unexpected '$newpost' (T_VARIABLE) in /home/tsdwzqqh/comimakeupblog.ml/views/pages/admin.php on line 58
+[16-Jun-2019 08:12:40 UTC] PHP Parse error:  syntax error, unexpected '$newpost' (T_VARIABLE) in /home/tsdwzqqh/comimakeupblog.ml/views/pages/admin.php on line 58
+[16-Jun-2019 08:13:30 UTC] PHP Parse error:  syntax error, unexpected '$newpost' (T_VARIABLE) in /home/tsdwzqqh/comimakeupblog.ml/views/pages/admin.php on line 58
+[16-Jun-2019 09:18:04 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function newPost(), 2 passed in /home/tsdwzqqh/comimakeupblog.ml/views/pages/admin.php on line 53 and exactly 3 expected in /home/tsdwzqqh/comimakeupblog.ml/models/postovi/functions.php:2
+Stack trace:
+#0 /home/tsdwzqqh/comimakeupblog.ml/views/pages/admin.php(53): newPost('Probni post', 'Ovo je probni p...')
+#1 /home/tsdwzqqh/comimakeupblog.ml/index.php(12): include('/home/tsdwzqqh/...')
+#2 {main}
+  thrown in /home/tsdwzqqh/comimakeupblog.ml/models/postovi/functions.php on line 2
+[16-Jun-2019 09:30:21 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function newPost(), 2 passed in /home/tsdwzqqh/comimakeupblog.ml/views/pages/admin.php on line 53 and exactly 3 expected in /home/tsdwzqqh/comimakeupblog.ml/models/postovi/functions.php:2
+Stack trace:
+#0 /home/tsdwzqqh/comimakeupblog.ml/views/pages/admin.php(53): newPost('Probni post', 'Ovo je probni p...')
+#1 /home/tsdwzqqh/comimakeupblog.ml/index.php(12): include('/home/tsdwzqqh/...')
+#2 {main}
+  thrown in /home/tsdwzqqh/comimakeupblog.ml/models/postovi/functions.php on line 2
+[16-Jun-2019 09:30:51 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function newPost(), 2 passed in /home/tsdwzqqh/comimakeupblog.ml/views/pages/admin.php on line 53 and exactly 3 expected in /home/tsdwzqqh/comimakeupblog.ml/models/postovi/functions.php:2
+Stack trace:
+#0 /home/tsdwzqqh/comimakeupblog.ml/views/pages/admin.php(53): newPost('Probni post', 'Ovo je probni p...')
+#1 /home/tsdwzqqh/comimakeupblog.ml/index.php(12): include('/home/tsdwzqqh/...')
+#2 {main}
+  thrown in /home/tsdwzqqh/comimakeupblog.ml/models/postovi/functions.php on line 2
+[16-Jun-2019 10:12:27 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/tsdwzqqh/comimakeupblog.ml/views/pages/admin.php on line 18
+[16-Jun-2019 10:12:33 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/tsdwzqqh/comimakeupblog.ml/views/pages/admin.php on line 18
+[16-Jun-2019 10:14:35 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/tsdwzqqh/comimakeupblog.ml/views/pages/admin.php on line 18
+[16-Jun-2019 15:11:44 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'LastTimeSeen' in 'where clause' in /home/tsdwzqqh/comimakeupblog.ml/config/konekcija.php:17
+Stack trace:
+#0 /home/tsdwzqqh/comimakeupblog.ml/config/konekcija.php(17): PDO->query('SELECT COUNT(*)...')
+#1 /home/tsdwzqqh/comimakeupblog.ml/models/korisnik/trenutnoUlogovani.php(18): executeQuery('SELECT COUNT(*)...')
+#2 /home/tsdwzqqh/comimakeupblog.ml/views/pages/admin.php(152): brojTrenutnoUlogovanih()
+#3 /home/tsdwzqqh/comimakeupblog.ml/index.php(12): include('/home/tsdwzqqh/...')
+#4 {main}
+  thrown in /home/tsdwzqqh/comimakeupblog.ml/config/konekcija.php on line 17
+[16-Jun-2019 15:12:38 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'LastTimeSeen' in 'where clause' in /home/tsdwzqqh/comimakeupblog.ml/config/konekcija.php:17
+Stack trace:
+#0 /home/tsdwzqqh/comimakeupblog.ml/config/konekcija.php(17): PDO->query('SELECT COUNT(*)...')
+#1 /home/tsdwzqqh/comimakeupblog.ml/models/korisnik/trenutnoUlogovani.php(18): executeQuery('SELECT COUNT(*)...')
+#2 /home/tsdwzqqh/comimakeupblog.ml/views/pages/admin.php(152): brojTrenutnoUlogovanih()
+#3 /home/tsdwzqqh/comimakeupblog.ml/index.php(12): include('/home/tsdwzqqh/...')
+#4 {main}
+  thrown in /home/tsdwzqqh/comimakeupblog.ml/config/konekcija.php on line 17
+[16-Jun-2019 15:39:32 UTC] PHP Recoverable fatal error:  Object of class stdClass could not be converted to string in /home/tsdwzqqh/comimakeupblog.ml/views/pages/admin.php on line 123
+[16-Jun-2019 15:45:31 UTC] PHP Recoverable fatal error:  Object of class stdClass could not be converted to string in /home/tsdwzqqh/comimakeupblog.ml/views/pages/admin.php on line 123
+[16-Jun-2019 15:58:46 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, object given in /home/tsdwzqqh/comimakeupblog.ml/views/pages/admin.php on line 125
+[16-Jun-2019 16:00:50 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, object given in /home/tsdwzqqh/comimakeupblog.ml/views/pages/admin.php on line 125
+[16-Jun-2019 16:01:09 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, object given in /home/tsdwzqqh/comimakeupblog.ml/views/pages/admin.php on line 125
+[16-Jun-2019 16:01:12 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, object given in /home/tsdwzqqh/comimakeupblog.ml/views/pages/admin.php on line 125
