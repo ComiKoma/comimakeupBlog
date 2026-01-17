@@ -1,3 +1,3 @@
 This is my first interactive web site!
 
-[Preuzmi dokumentaciju](/dokumentacija.pdf)
+[See the documentation](/dokumentacija.pdf)
